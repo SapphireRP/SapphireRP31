@@ -1,12 +1,20 @@
 <center><div align="center">
   <img width="150" src="https://i.imgur.com/kh5EghC.png" />
   <h1>SapphireRP</h1>
-  <h3>For some reason I make shows and movies in a game called Minecraft with mods?! I also make Minecraft Mods.</h3>  
+  <sup>Young ADHD Dev</sup>
 </div></center>
 
-##Who am I?
-I am Sapphire, a young adhd developer making youtube videos and other random shit. Here is my [YouTube videos](https://youtube.com/@SapphireRP31) and my [Other Socials](https://sapphirerp.carrd.co).
 
+## Who am I?
+Hello I am SapphireRP, for some reason I make weird shit on youtube, I also make Minecraft Mods
 
-# Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapphirerp)
+**And here we are today.**
+
+## Socials
+You can directly click on them.  
+[![Modrinth Username](https://img.shields.io/badge/Modrinth-SapphireRP-brightgreen)](https://modrinth.com/user/SapphireRP)
+[![Website](https://img.shields.io/badge/Website-Sapphire-pink)](https://twitch.tv/lumaa_dev)
+[![YouTube Handler](https://img.shields.io/badge/YouTube-%40SapphireRP-red)](https://youtube.com/@SapphireRP31)
+
+# Stats
+[![SapphireRP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapphirerp)](https://github.com/anuraghazra/github-readme-stats)
